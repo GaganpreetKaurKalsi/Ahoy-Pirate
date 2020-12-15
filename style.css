@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image : url("images/pirate2.jpg");
+    background-image : url("images/pirate1.jpg");
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body{
 }
 
 .font{
-    font-family : cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .heading{
